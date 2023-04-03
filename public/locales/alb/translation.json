@@ -1,0 +1,51 @@
+{
+    "home": {
+        "title": "RAFINERIA E VETME NË KOSOVË",
+        "parag": "Floil është rafineria e vetme e vajit në Kosovë. Historia e vajit Floil filloi në nëntor 2017, dhe produkti tani shitet në tregun rajonal dhe global. FLOIL si pjesë e familjes FLUIDI, është e përkushtuar të ofrojë cilësi të lartë në një proces të vazhdueshëm të forcimit të vlerës së shtuar për klientët e saj.",
+        "rafItalic": "Rafineria",
+        "rafHeading": "Floil redukton kimikatet me më shumë se 30%",
+        "rafParag": "Efikasiteti i rafinerisë Floil arrihet nëpërmjet një makinerie të automatizuar dhe të ndjeshme italo-gjermane të teknologjisë moderne, duke e bërë atë fabrikën lider të rafinimit për nga cilësia në rajonin e Ballkanit.",
+        "seeMore": "Shfaq më shumë",
+        "rapeseed": "Vaji Rapsol",
+        "rapeseedParag": "Vaji Rapsol, i njohur si Rapeseed apo Canola oil, njihet si vaji më i shëndetshëm nga të gjitha vajrat për pjekje dhe gatim.",
+        "rapeseedBtn": "Shiko Produktin",
+        "productsSection": "Produkte cilësore, 100% vendore.",
+        "productsParag": "Produktet 100% vendore Floil prodhohen sipas të gjitha kritereve të cilësisë në përputhje me standardet botërore.",
+        "kitchenSection": "Përgatitni receta mahnitëse me produktet Floil!",
+        "kitchenParag": "Recetat shijojnë më mirë me produktet Floil!"
+    },
+
+    "products": {
+        "title": "Produktet tona",
+        "parag": "Në Floil gjithmonë sigurohemi që të ofrojmë vetëm produkte ushqimore të cilësisë më të lartë për klientët tanë. Vaji i lulediellit, vaji rapsol, dhe gjalpi prodhohen të gjitha duke përdorur përbërësit më të mirë dhe masat më rigoroze të kontrollit të cilësisë. Ne jemi të përkushtuar t'u ofrojmë klientëve tanë produkte që jo vetëm kanë shije të shkëlqyer, por edhe që plotësojnë standardet më të larta për pastërtinë dhe vlerën ushqyese.",
+        "secondParag": "Të gjitha produktet Floil janë 100% vendore.",
+        "productsParag": "Në Floil gjithmonë sigurohemi që të ofrojmë vetëm produkte ushqimore të cilësisë më të lartë për klientët tanë. Vaji i lulediellit, vaji rapsol, dhe gjalpi prodhohen të gjitha duke përdorur përbërësit më të mirë dhe masat më rigoroze të kontrollit të cilësisë. Ne jemi të përkushtuar t'u ofrojmë klientëve tanë produkte që jo vetëm kanë shije të shkëlqyer, por edhe që plotësojnë standardet më të larta për pastërtinë dhe vlerën ushqyese."
+    },
+
+    "story": {
+        "title": "Historiku",
+        "parag": "Produkti vendor, vaji Floil, ka pasur një sukses të madh në shitje dhe eksport që nga plasimi i tij në treg më 2017. Përveç eksportit dhe shitjes masive brenda Kosovës dhe rajonit, Floil eksportohet edhe jashtë kontinentit të Evropës. Rafineria Floil krenarisht e mban titullin si rafineria e vetme në rajon që bën rafinimin 100% të vajit të lulediellit dhe suksesi i saj flet përmes nivelit të shitjes dhe eksportit që performon në botë.",
+        "headingStory": "Floil mbulon 100% të tregut vendor dhe 40% të tregut në Shqipëri dhe po ashtu eksporton rregullisht edhe në Irlandë, Suedi, Maqedoni, Mal të Zi, Finlandë, Norvegji, Austri, Gjermani, Amerikë dhe Lindje të Mesme.",
+        "paragStory": "Fluidi Group është përkushtuar gjithmonë për të ndihmuar ekonominë e Kosovës dhe këtë më së miri e dëshmoi ndërtimi i fabrikës së parë të këtij lloji në vend.",
+        "firstDate": "Plasimi i vajit të lulediellit Floil në treg.",
+        "secondDate": "Plasimi i vajit rapsol Floil në treg.",
+        "thirdDate": "Krijimi i fondacionit Floil Cares.",
+        "secondHeading": "Gatuaj me më të mirin!",
+        "secondParag": "Përveç vlerave të larta ushqyese, vaji i lulediellit Floil është i njohur edhe për shijen e tij të lehtë dhe delikate, gjë që e bën atë një zgjedhje ideale për gatim. Është gjithashtu një opsion buxhetor, duke e bërë atë të qasshëm për një gamë të gjerë të konsumatorëve.",
+        "btn": "Shiko Produktin"
+    },
+
+    "refinery": {
+        "heading": "Ndërtimi i objekteve të fabrikës Floil është bërë në kuadër të Shoqërisë FLUIDI SH.P.K, me makineri dhe pajisje për procesin e rafinimit deri në analizat laboratorike si kimike ashtu dhe fizike si dhe analiza mikrobiologjike që garantojnë një cilësi të lartë të produktit.",
+        "subHeading": "Rafinimi si teknikë kërkon të ruajë komponentë të dobishëm si vitamina E dhe antioksidantë natyralë në vend që të largojë ndotësit dhe sendet e tjera të padëshiruara."
+    },
+
+    "menu": {
+        "products": "Produktet",
+        "story" : "Historiku",
+        "refinery": "Rafineria",
+        "kitchen": "Receta Gatimi",
+        "contact": "Kontakti",
+        "foundation": "Floil Cares"
+    }
+}

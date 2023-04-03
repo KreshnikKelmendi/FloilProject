@@ -1,0 +1,50 @@
+{
+    "home": {
+        "title": "THE ONLY REFINERY IN KOSOVO",
+        "parag": "Floil is the only oil refinery in Kosovo. The story of Floil sunflower oil began in November 2017, and the product is now sold in the regional and global market. FLOIL, as part of the FLUIDI family, is committed to offering high quality in a continuous process of strengthening the added value for its customers.",
+        "rafItalic": "Refinery",
+        "rafHeading": "reduces chemicals by more than 30%",
+        "rafParag": "The efficiency of the Floil refinery is achieved through an automated and sensitive Italian-German machinery of modern technology, making it the leading refinery in terms of quality in the Balkan region.",
+        "seeMore": "See More",
+        "rapeseed": "RAPESEED OIL",
+        "rapeseedParag": "Rapeseed oil, also known as Canola oil, is known as the healthiest of all oils for baking and cooking.",
+        "rapeseedBtn": "View Product",
+        "productsSection": "All Floil products are 100% local.",
+        "productsParag": "100% local Floil products are produced according to all quality criteria in accordance with world standards.",
+        "kitchenSection": "Prepare amazing recipes with Floil products!",
+        "kitchenParag": "Recipes taste better with Floil products!"
+    },
+    "products": {
+        "title": "Our Products",
+        "parag": "At Floil we always ensure that we provide only the highest quality food products to our customers. Sunflower oil, rapeseed oil, and butter are all produced using the finest ingredients and the most rigorous quality control measures. We are committed to providing our customers with products that not only taste great, but also meet the highest standards for purity and nutritional value.",
+        "secondParag": "All Floil products are 100% local.",
+        "productsParag": "At Floil we always ensure that we provide only the highest quality food products to our customers. Sunflower oil, rapeseed oil, and butter are all produced using the finest ingredients and the most rigorous quality control measures. We are committed to providing our customers with products that not only taste great, but also meet the highest standards for purity and nutritional value."
+    },
+
+    "story": {
+        "title": "Our Story",
+        "parag": "The local product, Floil sunflower oil, has had a great success in sales and export since its launch on the market in 2017. In addition to export and mass sale within Kosovo and the region, Floil is also exported outside the continent of Europe. Floil Refinery proudly holds the title as the only refinery in the region that refines 100% sunflower oil and its success speaks through the level of sales and exports it performs in the world.",
+        "headingStory": "Floil covers 100% of the local market and 40% of the market in Albania and also regularly exports to Ireland, Sweden, Macedonia, Montenegro, Finland, Norway, Austria, Germany, America and the Middle East.",
+        "paragStory": "Fluidi Group has always been dedicated to helping the economy of Kosovo and this was best proven by the construction of the first factory of this type in the country.",
+        "firstDate": "Placing Floil sunflower oil on the market.",
+        "secondDate": "Rapsol Floil oil placement in the market.",
+        "thirdDate": "Creation of the Floil Cares foundation.",
+        "secondHeading": "Cook with the best!",
+        "secondParag": "In addition to its high nutritional value, Floil sunflower oil is also known for its light and delicate taste, which makes it an ideal choice for cooking. It is also a budget option, making it accessible to a wide range of consumers.",
+        "btn": "View Product"
+    },
+
+    "refinery": {
+        "heading": "The construction of the Floil factory facilities was done within the framework of the FLUIDI LLC company, with machinery and equipment for the refining process up to both chemical and physical laboratory analyzes as well as microbiological analyzes that guarantee a high quality of the product.",
+        "subHeading": "Refining as a technique seeks to preserve beneficial components such as vitamin E and natural antioxidants rather than removing contaminants and other unwanted items."
+    },
+
+    "menu": {
+        "products": "Products",
+        "story": "Our Story",
+        "refinery": "Refinery",
+        "kitchen": "Kitchen Recipes",
+        "contact": "Contact",
+        "foundation": "Floil Cares"
+    }
+}
